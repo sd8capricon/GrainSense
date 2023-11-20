@@ -1,0 +1,2 @@
+eg water patches
+approx 19s to convert each patch to numpy of 26 were faulty
